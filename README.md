@@ -26,10 +26,7 @@ Built using React.js, Tailwind CSS, QR technology, and interactive mapping conce
 
 New technologies, innovative ideas, collaborative projects, and opportunities to grow as a developer and problem solver.
 
-### 📫 Reach Me:
+## 🌐 Socials
 
-📧 [jennifersagaidasse@gmail.com](mailto:jennifersagaidasse@gmail.com)
-
-💼 LinkedIn: linkedin.com/in/jennifer-vesilica-rachel
-
-📍 Puducherry, India
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:jennifersagaidasse@gmail.com)

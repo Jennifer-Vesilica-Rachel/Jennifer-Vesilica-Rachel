@@ -55,6 +55,12 @@ New technologies, innovative ideas, collaborative projects, and opportunities to
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Jennifer-Vesilica-Rachel&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jennifer-Vesilica-Rachel&layout=compact&theme=tokyonight)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

@@ -22,13 +22,6 @@ A QR-code-based navigation platform developed during my internship at Aravind Ey
 
 Built using React.js, Tailwind CSS, QR technology, and interactive mapping concepts.
 
-### 📚 Currently Learning:
-
-* Machine Learning
-* Cloud Computing
-* Advanced Data Analytics
-* Open Source Development
-
 ### ✨ Always Exploring:
 
 New technologies, innovative ideas, collaborative projects, and opportunities to grow as a developer and problem solver.

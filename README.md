@@ -56,11 +56,6 @@ New technologies, innovative ideas, collaborative projects, and opportunities to
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Jennifer-Vesilica-Rachel&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jennifer-Vesilica-Rachel&layout=compact&theme=tokyonight)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -68,3 +63,9 @@ New technologies, innovative ideas, collaborative projects, and opportunities to
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Jennifer-Vesilica-Rachel&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jennifer-Vesilica-Rachel&layout=compact&theme=tokyonight)
